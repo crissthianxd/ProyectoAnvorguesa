@@ -7,4 +7,4 @@ Aplicacion para la empresa Whizkas
 
 + caracteristica1 del relase1
 
-
++ caracteristicas2 del relase1
