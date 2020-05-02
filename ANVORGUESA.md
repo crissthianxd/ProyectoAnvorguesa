@@ -15,6 +15,9 @@ Aplicacion para la empresa Whizkas
 
 + caracteristica5 del release1
 *no poner cebolla*
+
+*solucionando problema de cierre al usar una seccion en la app*
+
 **fin del primer release**
 ___
 
@@ -28,3 +31,4 @@ ___
 + caracteristica2.6 del release2
 + caracteristica2.7 del release2
 + caracteristica2.8 del release2
+
