@@ -16,3 +16,5 @@ Aplicacion para la empresa Whizkas
 + caracteristica5 del release1
 
 *no poner cebolla*
+
+*solucionando problema de cierre al usar una seccion en la app*
