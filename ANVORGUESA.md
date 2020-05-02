@@ -23,7 +23,8 @@ ___
 + caracteristica2.3 del release2
 + caracteristica2.4 del release2
 + caracteristica2.5 del release2
+
+*repararando el bug*
 + caracteristica2.6 del release2
 + caracteristica2.7 del release2
-
-
++ caracteristica2.8 del release2
