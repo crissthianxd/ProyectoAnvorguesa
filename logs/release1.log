@@ -1,0 +1,72 @@
+commit 2d92440e6c0419efb43ba068c1d1e0d4540646c7
+Merge: 7f2dacb a340e3c
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 17:34:26 2020 -0400
+
+    caracteristica5 del release1
+
+commit a340e3c3f0a94d827ec5d43c42e310dbabddcf7f
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 17:31:06 2020 -0400
+
+    caracteristca5 del release1
+
+commit 7f2dacb5191b4674e203d2f66eaa9bdef0a524f2
+Merge: ec4c87e b64cb46
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 17:20:02 2020 -0400
+
+    Merge branch 'feature4' into develop
+    caracteristica4 del release1
+
+commit b64cb4659a977e0af5cf4bdb50771c439ae8f31d
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 17:17:36 2020 -0400
+
+    caracteristica4 del release1
+
+commit ec4c87eb084bdad74874f24db34ea263d4800c54
+Merge: a154c06 47a9126
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 17:05:48 2020 -0400
+
+    Merge branch 'feature3' into develop
+    caracteritica3 del release1
+
+commit 47a9126d691b175d9897e4e8f36f0dc88defe50a
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 17:04:06 2020 -0400
+
+    caracteritica3 del release1
+
+commit a154c06b255e8d2baa3bd889b951e1a552d6eac6
+Merge: c70e099 01abb07
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 16:57:10 2020 -0400
+
+    caracteristica2 del release1
+
+commit 01abb07b6e375b88906b982541bf51a792910ab8
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 16:53:43 2020 -0400
+
+    caracteritica2 del release1
+
+commit c70e099c8e09dbfcb13ebac8ebea9e7e8314c34f
+Merge: a00e3b9 b587a9b
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 16:39:58 2020 -0400
+
+    caracteritica1 para el release 1 en desarrollo
+
+commit b587a9b0caed1de5339c17b34c2f1b240c8bde6b
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 16:37:12 2020 -0400
+
+    caracteristica 1 - R1
+
+commit a00e3b9e5f81ea052ad086e09a5cbdf240bc098d
+Author: crissthianxd <c.d.a.b.g.777@gmail.com>
+Date:   Fri May 1 16:23:30 2020 -0400
+
+    empezando el proyecto Anvorguesa
