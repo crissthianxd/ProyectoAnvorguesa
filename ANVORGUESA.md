@@ -14,3 +14,8 @@ Aplicacion para la empresa Whizkas
 + caracteristica4 del release1
 
 + caracteristica5 del release1
+
+**fin del primer release**
+___
+
++ caracteristica2.1 del release2
