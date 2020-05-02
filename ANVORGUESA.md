@@ -14,3 +14,5 @@ Aplicacion para la empresa Whizkas
 + caracteristica4 del release1
 
 + caracteristica5 del release1
+
+*no poner cebolla*
