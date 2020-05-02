@@ -23,5 +23,6 @@ ___
 + caracteristica2.3 del release2
 + caracteristica2.4 del release2
 + caracteristica2.5 del release2
++ caracteristica2.6 del release2
 
 
